@@ -88,7 +88,7 @@ repository: <USERNAME>/<PROJECT>
 # Email address, no mailto:
 # (Don't change this -- the contact address for your workshop will be set
 # in the index.md file)
-email: "lebrown@mtu.edu"
+email: "team@carpentries.org"
 
 # Sites.
 amy_site: "https://amy.carpentries.org"
